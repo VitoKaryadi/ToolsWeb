@@ -83,6 +83,7 @@ header h1 {
     align-items: center;
     justify-content: center;
     border: 1px solid #80868B;
+    background: url(/assets/images/watermark.png);
 }
 
 .wrapper.active .qr-code {
